@@ -6,7 +6,34 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "vitor@kenzie.com",
+      "password": "$2a$10$badmg6YA28eq986DiaoWO.iwPk3R8VHqtNRHiyE7eq83tBefW2vYm",
+      "name": "Vitor",
+      "age": "21",
+      "id": 2
+    }
+  ],
+  "sports": [
+    {
+      "type": "aquatic",
+      "name": "swimming",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "type": "field",
+      "name": "soccer",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "color": [
+    {
+      "name": "blue",
+      "userId": "2",
+      "id": 1
     }
   ]
-  // teste
 }
